@@ -1,6 +1,6 @@
 # 🌸 AniBlossom
 
-> **Kitsunee's polished Next.js frontend** × **AniBlossom's Firebase backend & blossom UI theme**
+> **s polished Next.js frontend** × **AniBlossom's Firebase backend & blossom UI theme**
 
 AniBlossom is an anime streaming site built on the [Kitsunee](https://kitsunee.moe) frontend architecture, redesigned with a cherry-blossom aesthetic and powered by Google Firebase for auth and user profiles.
 
